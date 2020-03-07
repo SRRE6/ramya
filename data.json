@@ -1,0 +1,32 @@
+{
+	"details":{
+		"image":"penguins.jpg",
+		"name":"ramya",
+		"email":"ramyarani0214@gmail.com",
+		"number":"8728732837",
+		"address":"visakhapatnam"
+	},
+	"career":{
+		"info":"To become a software engineer"
+	},
+	"education":{
+		"Institute":"VIEW",
+		"Degree":"B-Tech",
+	    "Percentage":"90",
+	    "PassoutYear":"2018-2022",
+	},
+	{
+	
+		"Institute":"Sri chaitanya",
+		"Degree":"Intermediate",
+	    "Percentage":"90",
+	    "PassoutYear":"2016-2018",
+	 },
+	 {
+	 	"Institute":"Vignan",
+		"Degree":"SSc",
+	    "Percentage":"90",
+	    "PassoutYear":"2016",
+
+	 }
+}
